@@ -1,0 +1,15 @@
+.buildozer
+app/node_modules/
+bin
+buildozer.spec
+build.log
+recipes/**/*.pyc
+src/main/assets/index.android.bundle
+src/main/assets/index.android.bundle.meta
+*.log
+.vagrant
+
+lbry-android.keystore
+p4a/pythonforandroid/bootstraps/lbry/build/templates/google-services.json
+.gitsecret/keys/random_seed
+
