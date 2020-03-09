@@ -13,12 +13,3 @@ The minimum supported Android version is 5.0 Lollipop. There are two ways to ins
 
 ## Usage
 The app can be launched by opening **LBRY Browser** from the device's app drawer or via the shortcut on the home screen if that was created upon installation.
-
-## Contributing
-Contributions to this project are welcome, encouraged, and compensated. For more details, see https://lbry.io/faq/contributing
-
-## License
-This project is MIT licensed. For the full license, see [LICENSE](LICENSE).
-
-## Security
-We take security seriously. Please contact security@lbry.com regarding any security issues. Our PGP key is [here](https://keybase.io/lbry/key.asc) if you need it.
